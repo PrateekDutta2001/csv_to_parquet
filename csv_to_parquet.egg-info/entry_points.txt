@@ -1,0 +1,2 @@
+[console_scripts]
+csv-to-parquet = csv_to_parquet.converter:main

@@ -1,0 +1,11 @@
+LICENSE.txt
+README.md
+setup.py
+csv_to_parquet/__init__.py
+csv_to_parquet/converter.py
+csv_to_parquet.egg-info/PKG-INFO
+csv_to_parquet.egg-info/SOURCES.txt
+csv_to_parquet.egg-info/dependency_links.txt
+csv_to_parquet.egg-info/entry_points.txt
+csv_to_parquet.egg-info/requires.txt
+csv_to_parquet.egg-info/top_level.txt
